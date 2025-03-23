@@ -4,13 +4,16 @@
 
 
 ## 💼 About Me
-<img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="300" height="230" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🚀 Working as a Full-Stack Developer at GWC Data.ai
-- 🎓 Engineering graduate from Kongu Engineering College (ECE)
-- 🌏 Connect with me on <p><a href="https://www.linkedin.com/in/sathyavardhan-k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
-- 🗣️ Fun fact: I know Japanese!
-<br>
+- 🚀 Working as a Full-Stack Developer at GWC Data.ai  
+- 🎓 Engineering graduate from Kongu Engineering College (ECE)  
+- ☕ I love coffee, and you’ll often find me coding with a cup in hand!  
+- 💻 Passionate about building scalable web applications & exploring new technologies  
+- 🌏 Connect with me on:  
+  <p><a href="https://www.linkedin.com/in/sathyavardhan-k/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>  
+- 🗣️ Fun fact: I know Japanese!  
+
 
 ## 🛠️ Tech Stack
 
