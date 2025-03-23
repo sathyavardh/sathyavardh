@@ -4,7 +4,7 @@
 
 
 ## 💼 About Me
-<img align="right" width="250" height="210" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🚀 Working as a Full-Stack Developer at GWC Data.ai
 - 🎓 Engineering graduate from Kongu Engineering College (ECE)
