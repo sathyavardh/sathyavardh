@@ -1,7 +1,6 @@
-# 👋 Hi there, This is Sathyavardhan
+# 👋 Hi there, I'm Sathyavardhan
 
-> Associate Full-Stack Developer at GWC Data.ai | ECE Graduate from Kongu Engineering College (2024)
-
+> Full-Stack Developer (MERN) with 1 year of experience at GWC Data.ai | 2024 ECE Graduate, Kongu Engineering College
 
 ## 💼 About Me
 <img align="right" width="300" height="230" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
