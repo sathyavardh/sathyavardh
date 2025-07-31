@@ -72,27 +72,28 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💻 Workspace Setup
-![HP Pavilion](https://img.shields.io/badge/HP_Pavilion-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-![Intel i5 11th Gen](https://img.shields.io/badge/Intel_i5_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![NVIDIA MX450](https://img.shields.io/badge/NVIDIA_MX450-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathyavardh&theme=radical&hide_border=false&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyavardh&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="170"/>
-</div>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://git-hub-streak-stats.vercel.app?user=sathyavardh" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyavardh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sathyavardh&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyavardh&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathyavardh&theme=radical&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
+## 💡LeetCode Stats
+<div>
   <img src="https://leetcard.jacoblin.cool/Sathya_01?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
@@ -102,8 +103,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathyavardh&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <br/>
-  <em>🚀 Always learning & improving!</em>
-</div>
+<a href="https://u8views.com/github/sathyavardh"><img src="https://u8views.com/api/v1/github/profiles/94102256/views/day-week-month-total-count.svg"></a>
