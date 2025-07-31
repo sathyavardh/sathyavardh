@@ -6,7 +6,7 @@
 ## 💼 About Me
 <img align="right" width="300" height="230" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🚀 Working as a Full-Stack Developer at GWC Data.ai  
+- 🚀 1 year of experience as an Associate Full-Stack Developer at GWC Data.ai 
 - 🎓 Engineering graduate from Kongu Engineering College (ECE)  
 - ☕ I love coffee, and you’ll often find me coding with a cup in hand!  
 - 💻 Passionate about building scalable web applications & exploring new technologies  
@@ -97,10 +97,16 @@
   <img src="https://leetcard.jacoblin.cool/Sathya_01?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyavardh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
+<div align="center">
+  <a href="https://u8views.com/github/sathyavardh"><img src="https://u8views.com/api/v1/github/profiles/94102256/views/day-week-month-total-count.svg"></a>
+  <br/>
+  <em>🚀 Always learning & improving!</em>
+</div>
 
-<a href="https://u8views.com/github/sathyavardh"><img src="https://u8views.com/api/v1/github/profiles/94102256/views/day-week-month-total-count.svg"></a>
