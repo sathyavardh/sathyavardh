@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/sathyavardhan-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@sathyavardhank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
   <a href="https://leetcode.com/Sathya_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sathyadev28_codes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sathyavardhank_28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=sathyavardh&style=flat-square&color=6DB33F&label=Profile+Views"/>
 </div>
 
