@@ -154,11 +154,6 @@ fun_fact: "I know Japanese! 🗣️"
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sathyavardh&show_icons=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=3178C6&text_color=8b949e&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyavardh&layout=compact&hide_border=true&title_color=6DB33F&text_color=8b949e&bg_color=0D1117"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyavardh&bg_color=0D1117&color=6DB33F&line=3178C6&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
